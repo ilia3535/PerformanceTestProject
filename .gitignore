@@ -1,0 +1,14 @@
+# Intellij
+.idea/*
+*.iml
+*.iws
+*.log
+*.txt
+*.db
+out/
+
+# Maven
+log/
+target\
+screenshots/expected/
+expected/

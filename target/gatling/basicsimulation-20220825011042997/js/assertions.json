@@ -1,0 +1,10 @@
+{
+  "simulation": "com.ilya.performance.BasicSimulation",
+  "simulationId": "basicsimulation-20220825011042997",
+  "start": 1661389843840,
+  "description": "",
+  "scenarios": ["Get user"],
+  "assertions": [
+
+  ]
+}
